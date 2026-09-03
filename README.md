@@ -16,7 +16,7 @@
 - Backend | FastAPI, Spring
 - Mobile | ~~iOS~~, Android
 - Product Engineering (PE)
-- Design (디자이너만 수강 가능)
+- Design (24.5기 Designers만 수강 가능)
 
 새롭게 신설된 ⭐️ Product Engineering(PE) ⭐️ 세미나에서는 AI를 적극 활용해 아이디어를 실제 서비스로 구현합니다. 앱 서비스 기획부터 프론트엔드·백엔드 개발, 출시까지 전 과정을 직접 경험하며 하나의 서비스를 end-to-end로 완성하는 것을 목표로 합니다. **(PE 세미나는 정회원과 Rookie가 함께 수강하며, Rookie는 PE 세미나만 단독으로 수강할 수 없습니다.)**
 
@@ -92,3 +92,4 @@
     - 3주차: 동작(컴포넌트, 베리언트)
     - 4주차: 일관된 이미지 구축(디자인 시스템)
 - 선이수 지식: 피그마 사용 경험이 있으면 좋습니다
+- 수강 대상: 24.5기 Designers
