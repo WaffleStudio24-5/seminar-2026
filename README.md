@@ -6,7 +6,7 @@
 
 |  시간           |  시간           | 장소 | 자료         |  녹화본 |
 | --------------- | ---- | ----------- | --------- | ----- |
-| 루키 세미나 OT | 2026년 9월 5일 17시 ~ | 301동 101호 | [OT 자료](https://docs.google.com/presentation/d/1KVPjKphNiTxyA7ZBgpPXDkhXZ6niRhSCVrAFIBNe1Yg/edit?usp=sharing) | 공개 예정 |
+| 루키 세미나 OT | 2026년 9월 5일 17시 ~ | 301동 101호 | [OT 자료](https://docs.google.com/presentation/d/1KVPjKphNiTxyA7ZBgpPXDkhXZ6niRhSCVrAFIBNe1Yg/edit?usp=sharing) | [OT 영상](https://youtu.be/5BiYxBzNtd4) |
 
 ## Rookies 세미나 소개 
 (자세한 내용은 OT 자료 참고)
