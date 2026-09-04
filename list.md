@@ -36,7 +36,7 @@
 | 양현우 | dennysmart7@snu.ac.kr | | | | |
 | 윤석민 | yunsukmin522@snu.ac.kr | | | | |
 | 윤현호 | dbsgusgh28@naver.com | | | | |
-| 윤환성 | hsyoonchoi@snu.ac.kr | | | | |
+| 윤환성 | hsyoonchoi@snu.ac.kr | spring | fastspi | android | X |
 | 정서윤 | ranunculus1021@gmail.com | | | | |
 | 정희영 | nyongan9280@snu.ac.kr | | | | |
 | 최영한 | yhchoi1@snu.ac.kr | | | | |
