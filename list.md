@@ -21,7 +21,7 @@
 | 김민석 | paul2723@snu.ac.kr | | | | |
 | 김성연 | sye0ndrm@snu.ac.kr | | | | |
 | 김우림 | urim1104@snu.ac.kr | | | | |
-| 김준용 | concatelink@gmail.com | | | | |
+| 김준용 | concatelink@gmail.com | spring | frontend | android | X |
 | 김지율 | danielkim8963@gmail.com | | | | |
 | 남민서 | minseonam16@gmail.com | | | | |
 | 민지환 | minjihwan@snu.ac.kr | | | | |
