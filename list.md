@@ -13,7 +13,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | (예시) 양해울 | haeul1005@snu.ac.kr | frontend | android | spring | O |
 | 강주원 | juwon060724@snu.ac.kr | | | | |
-| 권상혁 | blender333@naver.com | | | | |
+| 권상혁 | blender333@naver.com | spring | frontend | fastapi | X |
 | 권유리 | yrdy26@snu.ac.kr | | | | |
 | 길준식 | tree330@snu.ac.kr | | | | |
 | 김나현 | nhk129@snu.ac.kr | | | | |
