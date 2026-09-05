@@ -41,6 +41,6 @@
 | 정희영 | nyongan9280@snu.ac.kr | | | | |
 | 최영한 | yhchoi1@snu.ac.kr | | | | |
 | 한유찬 | mostyc@snu.ac.kr | | | | |
-| 한재민 | includejaemin@snu.ac.kr | | | | |
+| 한재민 | includejaemin@snu.ac.kr | spring | frontend | fastapi | X |
 | 황유로 | euro0926@snu.ac.kr | | | | |
 | 황찬연 | ghkdcksdus07@gmail.com | | | | |
