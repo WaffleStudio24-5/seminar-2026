@@ -24,7 +24,7 @@
 | 김준용 | concatelink@gmail.com | | | | |
 | 김지율 | danielkim8963@gmail.com | | | | |
 | 남민서 | minseonam16@gmail.com | | | | |
-| 민지환 | minjihwan@snu.ac.kr | | | | |
+| 민지환 | minjihwan@snu.ac.kr | fastapi | frontend | spring | O |
 | 박승찬 | mangolobstar1@gmail.com | | | | |
 | 박준호 | junhopark505@gmail.com | | | | |
 | 방우식 | pwskym@snu.ac.kr | | | | |
