@@ -31,7 +31,7 @@
 | 생이 | sengyee314@gmail.com | | | | |
 | 서정현 | ikon10044@gmail.com | | | | |
 | 성의현 | suhtjddmlgus124@gmail.com | | | | |
-| 송정음 | sje4477@snu.ac.kr | | | | |
+| 송정음 | sje4477@snu.ac.kr | frontend | spring | fastapi | X |
 | 송준호 | huhmmmq@gmail.com | | | | |
 | 양현우 | dennysmart7@snu.ac.kr | | | | |
 | 윤석민 | yunsukmin522@snu.ac.kr | | | | |
