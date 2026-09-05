@@ -39,7 +39,7 @@
 | 윤환성 | hsyoonchoi@snu.ac.kr | | | | |
 | 정서윤 | ranunculus1021@gmail.com | | | | |
 | 정희영 | nyongan9280@snu.ac.kr | | | | |
-| 최영한 | yhchoi1@snu.ac.kr | | | | |
+| 최영한 | yhchoi1@snu.ac.kr | android | fastapi | spring | X |
 | 한유찬 | mostyc@snu.ac.kr | | | | |
 | 한재민 | includejaemin@snu.ac.kr | | | | |
 | 황유로 | euro0926@snu.ac.kr | | | | |
