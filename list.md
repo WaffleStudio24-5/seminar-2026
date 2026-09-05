@@ -27,7 +27,7 @@
 | 민지환 | minjihwan@snu.ac.kr | | | | |
 | 박승찬 | mangolobstar1@gmail.com | | | | |
 | 박준호 | junhopark505@gmail.com | | | | |
-| 방우식 | pwskym@snu.ac.kr | | | | |
+| 방우식 | pwskym@snu.ac.kr | spring | fastapi | android | O |
 | 생이 | sengyee314@gmail.com | | | | |
 | 서정현 | ikon10044@gmail.com | | | | |
 | 성의현 | suhtjddmlgus124@gmail.com | | | | |
