@@ -28,7 +28,7 @@
 | 박승찬 | mangolobstar1@gmail.com | | | | |
 | 박준호 | junhopark505@gmail.com | | | | |
 | 방우식 | pwskym@snu.ac.kr | | | | |
-| 생이 | sengyee314@gmail.com | | | | |
+| 생이 | sengyee314@gmail.com | pe| fastapi | android | |
 | 서정현 | ikon10044@gmail.com | | | | |
 | 성의현 | suhtjddmlgus124@gmail.com | | | | |
 | 송정음 | sje4477@snu.ac.kr | | | | |
