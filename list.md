@@ -33,7 +33,7 @@
 | 성의현 | suhtjddmlgus124@gmail.com | | | | |
 | 송정음 | sje4477@snu.ac.kr | | | | |
 | 송준호 | huhmmmq@gmail.com | | | | |
-| 양현우 | dennysmart7@snu.ac.kr | | | | |
+| 양현우 | dennysmart7@snu.ac.kr | android | spring | frontend | x |
 | 윤석민 | yunsukmin522@snu.ac.kr | | | | |
 | 윤현호 | dbsgusgh28@naver.com | | | | |
 | 윤환성 | hsyoonchoi@snu.ac.kr | | | | |
