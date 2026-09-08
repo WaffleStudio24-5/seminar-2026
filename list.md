@@ -11,7 +11,7 @@
 
 | 이름 | GitHub Email | 1지망 | 2지망 | 3지망 | PE 수강 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| (예시) 양해울 | haeul1005@snu.ac.kr | frontend | android | spring | O |
+| (예시) 양해울 | haeul1005@snu.ac.kr | fastapi | frontend | android | O |
 | 강주원 | juwon060724@snu.ac.kr | | | | |
 | 권상혁 | blender333@naver.com | | | | |
 | 권유리 | yrdy26@snu.ac.kr | | | | |
