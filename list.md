@@ -43,4 +43,4 @@
 | 한유찬 | mostyc@snu.ac.kr | | | | |
 | 한재민 | includejaemin@snu.ac.kr | | | | |
 | 황유로 | euro0926@snu.ac.kr | | | | |
-| 황찬연 | ghkdcksdus07@gmail.com | | | | |
+| 황찬연 | ghkdcksdus07@gmail.com | fastapi | spring | frontend | O |
