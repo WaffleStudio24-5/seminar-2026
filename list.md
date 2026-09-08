@@ -19,7 +19,7 @@
 | 김나현 | nhk129@snu.ac.kr | | | | |
 | 김다현 | musicdavidkim@gmail.com | | | | |
 | 김민석 | paul2723@snu.ac.kr | | | | |
-| 김성연 | sye0ndrm@snu.ac.kr | | | | |
+| 김성연 | sye0ndrm@snu.ac.kr | frontend | android | fastapi  | x |
 | 김우림 | urim1104@snu.ac.kr | | | | |
 | 김준용 | concatelink@gmail.com | | | | |
 | 김지율 | danielkim8963@gmail.com | | | | |
