@@ -40,7 +40,7 @@
 | 정서윤 | ranunculus1021@gmail.com | | | | |
 | 정희영 | nyongan9280@snu.ac.kr | | | | |
 | 최영한 | yhchoi1@snu.ac.kr | | | | |
-| 한유찬 | mostyc@snu.ac.kr | | | | |
+| 한유찬 | mostyc@snu.ac.kr | fastapi | spring | frontend | X |
 | 한재민 | includejaemin@snu.ac.kr | | | | |
 | 황유로 | euro0926@snu.ac.kr | | | | |
 | 황찬연 | ghkdcksdus07@gmail.com | | | | |
