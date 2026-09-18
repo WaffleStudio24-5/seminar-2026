@@ -29,7 +29,7 @@
 | 박준호 | junhopark505@gmail.com | | | | |
 | 방우식 | pwskym@snu.ac.kr | | | | |
 | 생이 | sengyee314@gmail.com | | | | |
-| 서정현 | ikon10044@gmail.com | | | | |
+| 서정현 | ikon10044@gmail.com |fastapi | frontend|android | o|
 | 성의현 | suhtjddmlgus124@gmail.com | | | | |
 | 송정음 | sje4477@snu.ac.kr | | | | |
 | 송준호 | huhmmmq@gmail.com | | | | |
