@@ -25,7 +25,7 @@
 | 김지율 | danielkim8963@gmail.com | | | | |
 | 남민서 | minseonam16@gmail.com | | | | |
 | 민지환 | minjihwan@snu.ac.kr | | | | |
-| 박승찬 | mangolobstar1@gmail.com | | | | |
+| 박승찬 | mangolobstar1@gmail.com | spring | frontend | android | X |
 | 박준호 | junhopark505@gmail.com | | | | |
 | 방우식 | pwskym@snu.ac.kr | | | | |
 | 생이 | sengyee314@gmail.com | | | | |
