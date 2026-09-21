@@ -15,7 +15,7 @@
 | 강주원 | juwon060724@snu.ac.kr | | | | |
 | 권상혁 | blender333@naver.com | | | | |
 | 권유리 | yrdy26@snu.ac.kr | | | | |
-| 길준식 | tree330@snu.ac.kr | | | | |
+| 길준식 | tree330@snu.ac.kr | spring | fastapi | android | x |
 | 김나현 | nhk129@snu.ac.kr | | | | |
 | 김다현 | musicdavidkim@gmail.com | | | | |
 | 김민석 | paul2723@snu.ac.kr | | | | |
